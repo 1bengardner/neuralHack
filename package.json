@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.1",
+    "fs": "0.0.1-security",
     "request": "^2.88.0",
-    "rnd-song": "^1.0.2"
+    "rnd-song": "^1.0.2",
+    "ytdl-core": "^0.28.0"
   }
 }
